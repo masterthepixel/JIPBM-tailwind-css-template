@@ -112,7 +112,7 @@ body {
 }
 
 .bg-img-parallax {
-  background-image: url("https://images.unsplash.com/photo-1476067897447-d0c5df27b5df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  background-image: url("img/video-placeholder.jpeg");
   height: 60vh;
   background-attachment: fixed;
   background-position: center;
